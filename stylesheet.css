@@ -143,7 +143,7 @@ body {
 	50%{
 		opacity: 1;
 	}
-	100%{
+	10%{
 		background-image: url('bulb_yellow.png');
 		opacity: 1;
 	}
@@ -156,7 +156,7 @@ body {
 	50%{
 		opacity: 1;
 	}
-	100%{
+	10%{
 		background-image: url('bulb_yellow.png');
 		opacity: 1;
 	}
@@ -218,7 +218,7 @@ body {
 	50%{
 		opacity: 1;
 	}
-	100%{
+	10%{
 		background-image: url('bulb_red.png');
 		opacity: 1;
 	}
